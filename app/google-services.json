@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "4432890479",
+    "firebase_url": "https://pruebaautentificacionandroid.firebaseio.com",
+    "project_id": "pruebaautentificacionandroid",
+    "storage_bucket": "pruebaautentificacionandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4432890479:android:9eb0ccf74ea6a69dcc5b9a",
+        "android_client_info": {
+          "package_name": "com.example.ejemploautentificacionfirebaseyandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4432890479-9tflkff43nqb556u7ehp59ffc3roq4cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ejemploautentificacionfirebaseyandroid",
+            "certificate_hash": "5777968b0abdfc836927fe23d79a9ef56ef3aa99"
+          }
+        },
+        {
+          "client_id": "4432890479-5vhtps24l7d68u52k2bltdldje8cl70g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaBYmmlWXgfIr3yzcx2IHKUBX17MRuZso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4432890479-5vhtps24l7d68u52k2bltdldje8cl70g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
